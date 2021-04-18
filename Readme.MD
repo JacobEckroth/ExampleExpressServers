@@ -22,4 +22,6 @@ but I will also be looking up ways to do it and will update the github as soon a
 Once you have the img data downloaded it would be as simple to send it as just to add it as a member variable of the object
 that you send in the response in the server.
 
+Note that I used Git Bash to run the code, but any terminal with node installed should work.
+
 Please let me know if you have any questions.
